@@ -1,0 +1,18 @@
+C:\Users\X\AppData\Local\Temporary Projects\vjesala\bin\Debug\vjesala.exe
+C:\Users\X\AppData\Local\Temporary Projects\vjesala\bin\Debug\vjesala.pdb
+C:\Users\X\AppData\Local\Temporary Projects\vjesala\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\X\AppData\Local\Temporary Projects\vjesala\obj\x86\Debug\vjesala.Form1.resources
+C:\Users\X\AppData\Local\Temporary Projects\vjesala\obj\x86\Debug\vjesala.Properties.Resources.resources
+C:\Users\X\AppData\Local\Temporary Projects\vjesala\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\X\AppData\Local\Temporary Projects\vjesala\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\X\AppData\Local\Temporary Projects\vjesala\obj\x86\Debug\vjesala.exe
+C:\Users\X\AppData\Local\Temporary Projects\vjesala\obj\x86\Debug\vjesala.pdb
+C:\Users\X\documents\visual studio 2010\Projects\vjesala\vjesala\obj\x86\Debug\vjesala.exe
+C:\Users\X\documents\visual studio 2010\Projects\vjesala\vjesala\obj\x86\Debug\vjesala.pdb
+C:\Users\X\Documents\Visual Studio 2010\Projects\vjesala\vjesala\bin\Debug\vjesala.exe
+C:\Users\X\Documents\Visual Studio 2010\Projects\vjesala\vjesala\bin\Debug\vjesala.pdb
+C:\Users\X\Documents\Visual Studio 2010\Projects\vjesala\vjesala\obj\x86\Debug\vjesala.Form1.resources
+C:\Users\X\Documents\Visual Studio 2010\Projects\vjesala\vjesala\obj\x86\Debug\vjesala.Properties.Resources.resources
+C:\Users\X\Documents\Visual Studio 2010\Projects\vjesala\vjesala\obj\x86\Debug\vjesala.UnesenaRijec.resources
+C:\Users\X\Documents\Visual Studio 2010\Projects\vjesala\vjesala\obj\x86\Debug\vjesala.csprojResolveAssemblyReference.cache
+C:\Users\X\Documents\Visual Studio 2010\Projects\vjesala\vjesala\obj\x86\Debug\vjesala.csproj.GenerateResource.Cache

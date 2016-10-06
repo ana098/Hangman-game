@@ -1,0 +1,9 @@
+C:\Users\X\AppData\Local\Temporary Projects\vjesala\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\X\AppData\Local\Temporary Projects\vjesala\obj\x86\Release\vjesala.Form1.resources
+C:\Users\X\AppData\Local\Temporary Projects\vjesala\obj\x86\Release\vjesala.Properties.Resources.resources
+C:\Users\X\AppData\Local\Temporary Projects\vjesala\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\X\AppData\Local\Temporary Projects\vjesala\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\X\AppData\Local\Temporary Projects\vjesala\bin\Release\vjesala.exe
+C:\Users\X\AppData\Local\Temporary Projects\vjesala\bin\Release\vjesala.pdb
+C:\Users\X\AppData\Local\Temporary Projects\vjesala\obj\x86\Release\vjesala.exe
+C:\Users\X\AppData\Local\Temporary Projects\vjesala\obj\x86\Release\vjesala.pdb
